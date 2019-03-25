@@ -8,6 +8,6 @@ class CostumeStore <ActiveRecord::Migration[4.2]
       t.boolean :true
       t.integer :opening_time
       t.integer :closing_time
-    end 
+    end
   end
 end
